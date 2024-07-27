@@ -8,7 +8,7 @@
 
 ## Content
 
-> Dự án này bao gồm file SQL để thiết kế CSDL cho quản lý nhà sách, và viết giao diện bằng C#. Chúng tôi thực hiện chúng trong khoảng thời gian thông qua SE104.
+> Dự án này bao gồm file SQL để thiết kế CSDL cho quản lý nhà sách, giao diện được viết bằng C#. Chúng tôi thực hiện chúng trong khoảng thời gian thông qua SE104.
 
 ### Hình ảnh giao diện login:
 
