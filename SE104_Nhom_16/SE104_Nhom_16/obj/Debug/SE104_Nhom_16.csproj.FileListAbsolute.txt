@@ -1,0 +1,181 @@
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\bin\Debug\SE104_Nhom_15.exe.config
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\bin\Debug\SE104_Nhom_15.exe
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\bin\Debug\SE104_Nhom_15.pdb
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.csproj.AssemblyReference.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.Form1.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.frmBaoCaoHoaDon.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.FormLogin.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.FormMain.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoCongNo.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoDoanhSo.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoTon.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.FormLapHoaDonBanSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.FormLapPhieuNhapSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.FormLapPhieuThuTien.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.FormQuanLyKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.FormQuanLySach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.FormQuyDinh.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.FormTraCuu.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.frmSuaKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.frmSuaSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.Forms.frmTaiKhoan.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.frmThemKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.frmThemSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.frmXoaKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.frmXoaSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_15.Properties.Resources.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.csproj.GenerateResource.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_16.csproj.CoreCompileInputs.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_15.exe
+D:\DAI HOC\Nam 3\Ki 2\SE104\NGOC\Đồ án SE104.M22\Sản phẩm\SE104_Nhom_15_QLNS\SE104_Nhom_15\SE104_Nhom_15\obj\Debug\SE104_Nhom_15.pdb
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.exe.config
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.exe
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.pdb
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.AssemblyReference.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.Form1.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.frmBaoCaoHoaDon.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLogin.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormMain.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoCongNo.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoDoanhSo.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoTon.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapHoaDonBanSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapPhieuNhapSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapPhieuThuTien.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuanLyKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuanLySach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuyDinh.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormTraCuu.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmSuaKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmSuaSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.frmTaiKhoan.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmThemKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmThemSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmXoaKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmXoaSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Properties.Resources.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.GenerateResource.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.CoreCompileInputs.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.exe
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.pdb
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.exe.config
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.exe
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.AssemblyReference.cache
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.SuggestedBindingRedirects.cache
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.Form1.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.frmBaoCaoHoaDon.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLogin.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormMain.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoCongNo.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoDoanhSo.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoTon.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapHoaDonBanSach.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapPhieuNhapSach.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapPhieuThuTien.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuanLyKhachHang.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuanLySach.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuyDinh.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormTraCuu.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmSuaKhachHang.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmSuaSach.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.frmTaiKhoan.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmThemKhachHang.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmThemSach.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmXoaKhachHang.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmXoaSach.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Properties.Resources.resources
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.GenerateResource.cache
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.CoreCompileInputs.cache
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.exe
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.pdb
+D:\NAM3\HK2\Technology software\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.pdb
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.exe.config
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.exe
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.pdb
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.AssemblyReference.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.Form1.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.frmBaoCaoHoaDon.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLogin.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormMain.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoCongNo.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoDoanhSo.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoTon.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapHoaDonBanSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapPhieuNhapSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapPhieuThuTien.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuanLyKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuanLySach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuyDinh.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormTraCuu.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmSuaKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmSuaSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.frmTaiKhoan.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmThemKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmThemSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmXoaKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmXoaSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Properties.Resources.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.GenerateResource.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.CoreCompileInputs.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.exe
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_PV\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.pdb
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.exe.config
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.exe
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.pdb
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.AssemblyReference.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.Form1.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.frmBaoCaoHoaDon.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLogin.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormMain.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoCongNo.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoDoanhSo.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoTon.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapHoaDonBanSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapPhieuNhapSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapPhieuThuTien.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuanLyKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuanLySach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuyDinh.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormTraCuu.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmSuaKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmSuaSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.frmTaiKhoan.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmThemKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmThemSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmXoaKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmXoaSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Properties.Resources.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.GenerateResource.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.CoreCompileInputs.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.exe
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.pdb
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.exe.config
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.exe
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\bin\Debug\SE104_Nhom_16.pdb
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.AssemblyReference.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.Form1.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.frmBaoCaoHoaDon.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLogin.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormMain.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoCongNo.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoDoanhSo.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormBaoCaoTon.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapHoaDonBanSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapPhieuNhapSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormLapPhieuThuTien.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuanLyKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuanLySach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormQuyDinh.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.FormTraCuu.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmSuaKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmSuaSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Forms.frmTaiKhoan.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmThemKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmThemSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmXoaKhachHang.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.frmXoaSach.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.Properties.Resources.resources
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.GenerateResource.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.csproj.CoreCompileInputs.cache
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.exe
+D:\DAI HOC\Nam 3\Ki 2\SE104\DOAN\SE104_Nhom_16_done\SE104_Nhom_16\SE104_Nhom_16\SE104_Nhom_16\obj\Debug\SE104_Nhom_16.pdb
